@@ -3,7 +3,7 @@
 
 1. Clone the repository:
 ``
-git clone https://github.com/morhafdr/pharmacy_m.git
+git clone https://github.com/AlaaP5/Pharmacy.git
 ```
 2. Navigate to the project directory:
 ```
