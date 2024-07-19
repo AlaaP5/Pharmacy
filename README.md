@@ -48,3 +48,20 @@ php artisan serve
 ```
 
 That's it! You now have a Laravel 9 Passport project installed from GitHub and ready to use.
+
+-------------------------------------------------------------------------------------------------------
+
+Project Description: 
+  -Enhance the efficiency of pharmacy management and streamline daily operations.
+
+Key Features:
+  -Inventory Management: Track medications and update quantities regularly.
+
+Order System: 
+  -Simplify the process of ordering medications from suppliers.
+
+Patient Records:
+  -Maintain and update patient information and prescriptions.
+
+Reports and Analytics: 
+  -Detailed reports on sales, inventory, and pharmacy performance.  
